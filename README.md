@@ -1,2 +1,2 @@
 # dash_shine
-projeto dashboard ashine
+projeto dashboard em shine
